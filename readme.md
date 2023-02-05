@@ -33,3 +33,5 @@ Start server
 ``` bash
     python app.py
 ```
+
+# The API is now ready to be consumed.... 😄
