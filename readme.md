@@ -6,7 +6,7 @@ We have build an API using Flask. This API retrieves student data from a SQLite 
 ## Run Locally
 Clone the project
 ``` bash
-    git clone https://github.com/urs-santoshh/
+    git clone https://github.com/urs-santoshh/student_management.git
 ```
 
 Go to the project directory
